@@ -40,9 +40,6 @@ The implementation is complete and all five provided tests pass. With more time 
 ---
 
 ## Final Entry – 05/14/2026: Time Estimate
-
-Estimated hours reflect the time a junior programmer (solid data-structures background, first exposure to TSP-style search) would likely spend researching and writing each part carefully.
-
 | Part | Estimated Hours |
 |---|---|
 | Part 1: Problem Analysis | 0.5 |
